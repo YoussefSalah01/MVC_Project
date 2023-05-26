@@ -1,2 +1,2 @@
 # MVC_Project
-Using MVC architecture and Repository Design Pattern
+Using MVC architecture and Repository  Design Pattern
